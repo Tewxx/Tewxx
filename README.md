@@ -7,7 +7,7 @@
 <div align="center">
  
  🔭 A beginner Python developer, check out my projects!
-  <img align="right" alt="Enderman" width="180" src="https://github.com/Tewxx/Tewxx/blob/main/Fun Gif.gif" />
+  <img align="right" alt="Snowman" width="120" src="https://github.com/Tewxx/Tewxx/blob/main/Fun Gif.gif" />
  </div>
 
 <div align="center"> 
