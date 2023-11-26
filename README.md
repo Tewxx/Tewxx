@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Tewxx.Tewxx" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tewxx!" />
 </h1>
@@ -12,6 +10,8 @@
  
  </div>
  
+ <img align="right" alt="Enderman" width="180" src="https://github.com/Tewxx/Tewxx/blob/main/Fun Gif.gif" />
+
 <div align="center"> 
   <a href="mailto:pedro.sales.ytfutzloop@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -49,6 +49,12 @@
   <img width=325 align="center" src="https://github-readme-stats-Tewxx.vercel.app/api/top-langs/?username=Tewxx&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+<div align="center">
+ 
+ Thank you to @CodeCraft for the profile template!
+ https://www.youtube.com/@realcodecraft
+ 
+ </div>
 <br/><br/>
 
 <hr/>
