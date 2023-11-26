@@ -6,7 +6,6 @@
 
 <div align="center">
     🔭 A beginner Python developer, check out my projects!
-    <img align="right" alt="Snowman" width="120" src="https://github.com/Tewxx/Tewxx/blob/main/Fun%20Gif.gif" />
 </div>
 
 <div align="center"> 
@@ -25,25 +24,6 @@
 
 <br/>
 <hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tewxx/Tewxx/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-Tewxx.vercel.app/?user=Tewxx&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-Tewxx.vercel.app/api?username=Tewxx&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-Tewxx.vercel.app/api/top-langs/?username=Tewxx&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
 <div align="center">
  
