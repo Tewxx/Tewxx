@@ -28,10 +28,6 @@
 
 <div align="center">
  
- Thank you to @CodeCraft for the profile template!
- 
- https://www.youtube.com/@realcodecraft
- 
  </div>
 <br/><br/>
 
