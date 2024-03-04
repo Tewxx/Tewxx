@@ -19,10 +19,4 @@
 <br/>
 <hr/>
 
-<div align="center">
  
- </div>
-
-<hr/>
-
-<br/>
