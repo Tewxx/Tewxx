@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-    🔭 A beginner Python developer, check out my projects!
+    🔭 A Python developer, check out my projects!
 </div>
 
 <hr/>
