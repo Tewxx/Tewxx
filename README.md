@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-    🔭 A Python developer, check out my projects!
+    🔭 I do python and trying to get into Minecraft Java modding with fabric
 </div>
 
 <hr/>
@@ -13,7 +13,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github" />
-    <img src="https://skillicons.dev/icons?i=python,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,idea,ps" /><br>
 </div>
 
 <br/>
