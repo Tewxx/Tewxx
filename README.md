@@ -19,4 +19,7 @@
 <br/>
 <hr/>
 
- 
+ ## Stats
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tewxx&show_icons=true&theme=dracula" />
+</a>
