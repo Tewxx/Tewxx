@@ -3,7 +3,7 @@
 </h1>
 
 <div align="left">
-    🔭 I do python and like modeling in blockbench and creating and helping with minecraft mods. I perfer front end and love designing pages.
+    I like to code Minecraft clients. Most of my work is private.
 
 
 <h2 align="left"> 
