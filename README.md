@@ -3,18 +3,4 @@
 </h1>
 
 <div align="left">
-    I like to code Minecraft clients. Most of my work is private.
-
-
-<h2 align="left"> 
-    What I use ☄️</h2>
-<br/>
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=python,java,vscode,idea,ps" />
-</div>
-
- <h2 align="left"> My Stats 😳</h2>
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tewxx&show_icons=true&theme=dracula" />
-</a>
-
+    My actual good work is private :/
